@@ -1,0 +1,6 @@
+{
+  "name": "Digital Epoch Landing",
+  "description": "A high-performance modern hero section with live video background and a seamless logo scroller.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
